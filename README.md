@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jivan Aryal</h1>
-<h3 align="center">A passionate MERN Stack developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
