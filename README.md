@@ -63,12 +63,3 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jivanaryal&show_icons=true&locale=en&layout=compact" alt="jivanaryal" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jivanaryal&show_icons=true&locale=en" alt="jivanaryal" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jivanaryal&" alt="jivanaryal" />
-</p>
