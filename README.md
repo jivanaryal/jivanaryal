@@ -62,4 +62,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jivanaryal/jivanaryal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
