@@ -10,7 +10,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivanaryal" alt="jivanaryal" /></a>
 </p>
 
-![snake gif](https://github.com/jivanaryal/jivanaryal/blob/output/github-snake-dark.svg)
 
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [https://jivanaryal.com.np/](https://jivanaryal.com.np/)
